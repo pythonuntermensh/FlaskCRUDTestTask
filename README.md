@@ -1,5 +1,7 @@
 # FlaskCRUDTestTask
-Simple CRUD app using python/flask/mariadb and wrapped into Docker for DocuSketch test task.\n
+Simple CRUD app using python/flask/mariadb and wrapped into Docker for DocuSketch test task.
+
+Used MongoDB as a NoSQL db. Created 4 controllers to find_all, find_one, create, update.
 
 Requests examples (find_all/find_one/add/update):
 ![image](https://github.com/pythonuntermensh/FlaskCRUDTestTask/assets/67477883/dcfd0a3f-f14c-40b5-9885-a9a4a845e4f1)
